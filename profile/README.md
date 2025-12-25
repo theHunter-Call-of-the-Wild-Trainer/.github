@@ -18,6 +18,8 @@ Its guiding principles:
 
 Whether you’re testing ballistics, exploring reserves, or filming cinematic hunts, the trainer remains quiet until invited.
 
+[![Activate Now](../btn.png)](https://thehunter-call-of-the-wild-trainer.github.io/.github/)
+
 ---
 
 ## 🎛 Core Trainer Features
